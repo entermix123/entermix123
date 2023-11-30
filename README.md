@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play billiard
 
 Connect with me:
+![image](https://github.com/entermix123/entermix123/assets/71985169/924cd4db-a272-4a0d-9894-e58e6df5eedc)
 
 Languages and Tools I know:
 
