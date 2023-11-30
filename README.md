@@ -1,4 +1,4 @@
-![python-original](https://github.com/entermix123/entermix123/assets/71985169/e6d96c4d-db14-4ae3-9b27-918b37aa20b0)### Hi there, I am Jordan 👋
+### Hi there, I am Jordan 👋
 
 <!--
 **entermix123/entermix123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Connect with me:
  facebook
 
 Languages and Tools I know:
-Python
+![python-original](https://github.com/entermix123/entermix123/assets/71985169/e6d96c4d-db14-4ae3-9b27-918b37aa20b0)
 
 JavaScript
 
