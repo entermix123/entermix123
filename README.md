@@ -25,7 +25,7 @@ Connect with me:
  facebook
 
 Languages and Tools I know:
-![python-original](https://github.com/entermix123/entermix123/assets/71985169/e6d96c4d-db14-4ae3-9b27-918b37aa20b0)
+Python
 
 JavaScript
 
