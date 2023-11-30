@@ -47,6 +47,7 @@ Git
 GitHub
 
 
+![image](https://github.com/entermix123/entermix123/assets/71985169/d59d7efc-9a7d-4c95-9bbd-20d5a497c6bf)
 
 
   
