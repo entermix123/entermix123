@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects so don't hesitate to contact me
 - 💬 Ask me about life and music
 - 📫 How to reach me: balabanovjordan@gmail.com
-- ⚡ Fun fact: I love to play billiard, create and play music and do some street fitness
+- ⚡ Fun fact: I love to play billiard, create and play music and do street fitness
 
 Languages and Tools I know:
 
