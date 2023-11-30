@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my proggraming skills
+- 👯 I’m looking to collaborate on projects so don't hesitate to write me
+- 💬 Ask me about life and music
+- 📫 How to reach me: balabanovjordan@gmail.com
+- ⚡ Fun fact: I love to play billiard
+
+Connect with me:
+ facebook
+
+html tag image  Languages and Tools I know:
+Python
+
+JavaScript
+
+TypeScript
+
+Node.js
+
+Django
+
+PyCharm
+
+Visual Studio Code
+
+Amazon Web Services
+
+PostgreSQL
+
+Git
+
+GitHub
+
+
+
+
+  
