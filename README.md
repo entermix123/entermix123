@@ -28,6 +28,50 @@ Languages and Tools I know:
 
 
 
+html tag image  Languages and Tools I know:
+Python
+
+JavaScript
+
+TypeScript
+
+C++
+
+Node.js
+
+HTML5
+
+CSS3
+
+Django
+
+Express
+
+React
+
+Vue
+
+Mocha
+
+PyCharm
+
+Visual Studio Code
+
+Visual Studio
+
+Heroku
+
+Amazon Web Services
+
+React
+
+PostgreSQL
+
+MongoDB
+
+Git
+
+GitHub
 
 
   
