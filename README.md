@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my programming skills
-- 👯 I’m looking to collaborate on projects so don't hesitate to contact me
+- 👯 Don't hesitate to contact me
 - 💬 Ask me about life and music
 - 📫 How to reach me: balabanovjordan@gmail.com
 - ⚡ Fun fact: I love to play billiard, create and play music
