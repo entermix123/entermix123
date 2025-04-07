@@ -1,4 +1,4 @@
-### Hi there, I am Jordan 👋
+### Hi there, I am Yordan 👋
 
 <!--
 **entermix123/entermix123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
