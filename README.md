@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m always working on myself
 - 👯 Don't hesitate to contact me
 - 💬 Ask me about code and music
-- 📫 How to reach me: balabanovjordan@gmail.com
+- 📫 How to reach me: yordanbalabanov99@gmail.com
 - ⚡ Fun fact: I love to play billiard, create and play music
 
 Languages and Tools I know:
